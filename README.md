@@ -1,2 +1,4 @@
 # go-first-steps
-golang
+microsoft golang training
+
+https://learn.microsoft.com/ja-jp/training/paths/go-first-steps/
